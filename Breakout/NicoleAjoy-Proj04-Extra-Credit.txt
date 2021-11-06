@@ -1,0 +1,18 @@
+Project 4 - Breakout
+By Nicole Ajoy
+
+Both power-ups still count towards the total score.
+The value depends on how far the box is from the paddle.
+Images are located under the "data" folder.
+
+There are two power-ups:
+
+1. "Ghost Ball"
+Image: Yellow Star ("star.gif")
+Effect: Ball collides with boxes without bouncing
+Duration: 3 paddle collisions
+
+2. "Big Paddle"
+Image: Red Mushroom ("shroom.png")
+Effect: Stretches size of paddle by doubling its width
+Duration: 3 paddle collisions
